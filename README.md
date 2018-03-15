@@ -1,3 +1,2 @@
 # giasen.github.io
-This WIP site is written by me
-
+I have written this little site myself
